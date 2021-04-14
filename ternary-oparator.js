@@ -16,9 +16,9 @@ if(age > 17){
 
 // ternary oparator
 
-var singleCondition = (age>17) ? console.log("adult") : console.log("teen")
+var singleCondition = (age>17) ? "adult" : "teen"
 
-var doubleCondition = (age>17) ? console.log("adult") 
-                                : (age > 10) ? console.log("teen") 
-                                : (age > 5) ? console.log("kid") 
-                                : console.log("newbron")
+var doubleCondition = (age>17) ? "adult"
+                               : (age > 10) ? "teen"
+                               : (age > 5) ? "kid"
+                               : "newbron"
