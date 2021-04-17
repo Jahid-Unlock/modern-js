@@ -1,5 +1,6 @@
 /*
 
+topic : ternary oparator
 structure : (condition) : trueValue : flasyValue
 
 */
